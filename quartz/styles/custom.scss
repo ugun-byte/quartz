@@ -1,5 +1,18 @@
 @use "./base.scss";
 
+@media all and (min-width: 1200px) {
+  .page > .sidebar.right,
+  .page > .sidebar.left {
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+    overscroll-behavior: contain;
+  }
+
+  .page > .sidebar.right {
+    padding-right: 1rem;
+  }
+}
+
 .sector-showcase {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
