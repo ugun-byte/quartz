@@ -52,6 +52,22 @@
   font-weight: 600;
 }
 
+.page article a[href*="/people/"] {
+  color: inherit;
+  font-weight: 700;
+  text-decoration: none;
+  background: linear-gradient(180deg, transparent 0 34%, rgb(255 157 0 / 0.48) 34% 100%);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0 0.12em;
+  border-radius: 0.18rem;
+  transition: background 140ms ease;
+}
+
+.page article a[href*="/people/"]:hover {
+  background: linear-gradient(180deg, transparent 0 28%, rgb(255 157 0 / 0.72) 28% 100%);
+}
+
 @media all and (max-width: 800px) {
   article h1 {
     line-height: 1.2;
@@ -84,5 +100,10 @@
   .sector-people {
     font-size: 0.94rem;
     line-height: 1.6;
+  }
+
+  .page article a[href*="/people/"] {
+    padding: 0 0.16em;
+    border-radius: 0.14rem;
   }
 }
