@@ -123,8 +123,9 @@ function renderBriefing(briefing) {
     const signals = Array.isArray(section.signals) ? section.signals : []
     for (const signal of signals) {
       const person = signal.person || "Unknown"
+      const personHeading = `<span class="signal-target-name">${person}</span>`
       const handle = signal.handle ? `[@${signal.handle}](https://x.com/${signal.handle})` : ""
-      lines.push(`### ${person}${handle ? ` ${handle}` : ""}`)
+      lines.push(`### ${personHeading}${handle ? ` ${handle}` : ""}`)
       lines.push("")
       lines.push(`**주목도:** ${attentionLabel(signal.attention)}`)
       lines.push("")

@@ -43,7 +43,7 @@ draft: false
 
 이번 주 정치·공공 분야에서는 대외 메시지보다 산업·인프라 정책 관련 발언이 상대적으로 또렷했습니다.
 
-### Narendra Modi [@narendramodi](https://x.com/narendramodi)
+### <span class="signal-target-name">Narendra Modi</span> [@narendramodi](https://x.com/narendramodi)
 
 **주목도:** 중간
 
@@ -53,7 +53,7 @@ draft: false
 
 **원문:** https://x.com/narendramodi/status/2054547929961222549
 
-### Narendra Modi [@narendramodi](https://x.com/narendramodi)
+### <span class="signal-target-name">Narendra Modi</span> [@narendramodi](https://x.com/narendramodi)
 
 **주목도:** 중간
 
@@ -67,7 +67,7 @@ draft: false
 
 AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 바이오 응용 확대가 함께 나타났습니다.
 
-### Sam Altman [@sama](https://x.com/sama)
+### <span class="signal-target-name">Sam Altman</span> [@sama](https://x.com/sama)
 
 **주목도:** 높음
 
@@ -77,7 +77,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 **원문:** https://x.com/sama/status/2054626219858293128
 
-### Sam Altman [@sama](https://x.com/sama)
+### <span class="signal-target-name">Sam Altman</span> [@sama](https://x.com/sama)
 
 **주목도:** 중간
 
@@ -87,7 +87,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 **원문:** https://x.com/sama/status/2053971387308745046
 
-### Demis Hassabis [@demishassabis](https://x.com/demishassabis)
+### <span class="signal-target-name">Demis Hassabis</span> [@demishassabis](https://x.com/demishassabis)
 
 **주목도:** 높음
 
@@ -97,7 +97,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 **원문:** https://x.com/demishassabis/status/2054197462101889277
 
-### Demis Hassabis [@demishassabis](https://x.com/demishassabis)
+### <span class="signal-target-name">Demis Hassabis</span> [@demishassabis](https://x.com/demishassabis)
 
 **주목도:** 중간
 
@@ -111,7 +111,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 테크 분야에서는 Google이 Android와 메시징 보안 영역에서 구체적인 플랫폼 변화를 언급했습니다.
 
-### Sundar Pichai [@sundarpichai](https://x.com/sundarpichai)
+### <span class="signal-target-name">Sundar Pichai</span> [@sundarpichai](https://x.com/sundarpichai)
 
 **주목도:** 높음
 
@@ -121,7 +121,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 **원문:** https://x.com/sundarpichai/status/2054255858700415005
 
-### Sundar Pichai [@sundarpichai](https://x.com/sundarpichai)
+### <span class="signal-target-name">Sundar Pichai</span> [@sundarpichai](https://x.com/sundarpichai)
 
 **주목도:** 중간
 
@@ -135,7 +135,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 로봇 분야에서는 Figure의 장시간 자율 작업 시연이 가장 눈에 띄는 주간 신호였습니다.
 
-### Brett Adcock [@adcock_brett](https://x.com/adcock_brett)
+### <span class="signal-target-name">Brett Adcock</span> [@adcock_brett](https://x.com/adcock_brett)
 
 **주목도:** 높음
 
@@ -145,7 +145,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 **원문:** https://x.com/adcock_brett/status/2054603963996278786
 
-### Brett Adcock [@adcock_brett](https://x.com/adcock_brett)
+### <span class="signal-target-name">Brett Adcock</span> [@adcock_brett](https://x.com/adcock_brett)
 
 **주목도:** 중간
 

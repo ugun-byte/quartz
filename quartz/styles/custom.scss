@@ -68,6 +68,15 @@
   background: linear-gradient(180deg, transparent 0 28%, rgb(255 157 0 / 0.72) 28% 100%);
 }
 
+.page article .signal-target-name {
+  color: #ff9d00;
+  font-weight: 800;
+}
+
+.page article h3 > a[href*="x.com/"] {
+  color: color-mix(in srgb, #ff9d00 72%, var(--darkgray) 28%);
+}
+
 @media all and (max-width: 800px) {
   article h1 {
     line-height: 1.2;

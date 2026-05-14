@@ -18,7 +18,7 @@ draft: false
 
 ## 테크·IT
 
-### Elon Musk (@elonmusk)
+### <span class="signal-target-name">Elon Musk</span> (@elonmusk)
 
 **주목도:** 중간
 
