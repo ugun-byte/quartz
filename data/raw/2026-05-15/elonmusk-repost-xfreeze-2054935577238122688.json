@@ -1,0 +1,18 @@
+{
+  "collectedAt": "2026-05-15T00:12:00+09:00",
+  "window": {
+    "startKst": "2026-05-14T20:01:00+09:00",
+    "endKst": "2026-05-15T00:01:00+09:00"
+  },
+  "source": "Elon Musk profile and X.com status page via Chrome DevTools",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "sector": "테크·IT",
+  "action": "reposted",
+  "originalAuthor": "X Freeze",
+  "originalHandle": "XFreeze",
+  "url": "https://x.com/XFreeze/status/2054935577238122688",
+  "postedAtUtc": "2026-05-14T14:43:15.000Z",
+  "postedAtKst": "2026-05-14T23:43:15+09:00",
+  "text": "Grok Voice Think Fast 1.0 is officially the most well-rounded agentic voice AI on the market right now\n\nIt now ranks #1 in the latest τ-Voice agentic performance benchmarks in real-world tests on Artificial Analysis\n\nThe gap is massive. xAI is quietly taking over every other model by actually building for real-world use instead of just lab demos..."
+}
