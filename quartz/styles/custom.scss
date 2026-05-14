@@ -1,14 +1,14 @@
 @use "./base.scss";
 
 @media all and (min-width: 1200px) {
-  .page > .sidebar.right,
-  .page > .sidebar.left {
+  #quartz-body > .sidebar.right,
+  #quartz-body > .sidebar.left {
     overflow-y: auto;
     scrollbar-gutter: stable;
     overscroll-behavior: contain;
   }
 
-  .page > .sidebar.right {
+  #quartz-body > .sidebar.right {
     padding-right: 1rem;
   }
 }
