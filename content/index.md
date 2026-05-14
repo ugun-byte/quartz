@@ -20,32 +20,32 @@ tags:
   <section class="sector-card">
     <p class="sector-label">정치·공공</p>
     <h3>정책과 인프라의 방향</h3>
-    <p class="sector-people"><a href="/quartz/people/donald-trump">도널드 트럼프 Donald Trump</a> · <a href="/quartz/people/narendra-modi">나렌드라 모디 Narendra Modi</a></p>
+    <p class="sector-people"><a href="./people/donald-trump">도널드 트럼프 Donald Trump</a> · <a href="./people/narendra-modi">나렌드라 모디 Narendra Modi</a></p>
   </section>
   <section class="sector-card">
     <p class="sector-label">AI</p>
     <h3>모델과 인터페이스의 변화</h3>
-    <p class="sector-people"><a href="/quartz/people/sam-altman">샘 올트먼 Sam Altman</a> · <a href="/quartz/people/demis-hassabis">데미스 허사비스 Demis Hassabis</a> · <a href="/quartz/people/andrej-karpathy">안드레이 카파시 Andrej Karpathy</a></p>
+    <p class="sector-people"><a href="./people/sam-altman">샘 올트먼 Sam Altman</a> · <a href="./people/demis-hassabis">데미스 허사비스 Demis Hassabis</a> · <a href="./people/andrej-karpathy">안드레이 카파시 Andrej Karpathy</a></p>
   </section>
   <section class="sector-card">
     <p class="sector-label">테크·IT</p>
     <h3>플랫폼과 제품 전략</h3>
-    <p class="sector-people"><a href="/quartz/people/elon-musk">일론 머스크 Elon Musk</a> · <a href="/quartz/people/sundar-pichai">순다르 피차이 Sundar Pichai</a> · <a href="/quartz/people/satya-nadella">사티아 나델라 Satya Nadella</a></p>
+    <p class="sector-people"><a href="./people/elon-musk">일론 머스크 Elon Musk</a> · <a href="./people/sundar-pichai">순다르 피차이 Sundar Pichai</a> · <a href="./people/satya-nadella">사티아 나델라 Satya Nadella</a></p>
   </section>
   <section class="sector-card">
     <p class="sector-label">투자·경제</p>
     <h3>자본과 시장 해석</h3>
-    <p class="sector-people"><a href="/quartz/people/cathie-wood">캐시 우드 Cathie Wood</a> · <a href="/quartz/people/reid-hoffman">리드 호프먼 Reid Hoffman</a> · <a href="/quartz/people/peter-thiel">피터 틸 Peter Thiel</a></p>
+    <p class="sector-people"><a href="./people/cathie-wood">캐시 우드 Cathie Wood</a> · <a href="./people/reid-hoffman">리드 호프먼 Reid Hoffman</a> · <a href="./people/peter-thiel">피터 틸 Peter Thiel</a></p>
   </section>
   <section class="sector-card">
     <p class="sector-label">로봇·미래기술</p>
     <h3>현장 배치와 실사용 신호</h3>
-    <p class="sector-people"><a href="/quartz/people/brett-adcock">브렛 애드콕 Brett Adcock</a> · <a href="/quartz/people/marc-raibert">마크 레이버트 Marc Raibert</a></p>
+    <p class="sector-people"><a href="./people/brett-adcock">브렛 애드콕 Brett Adcock</a> · <a href="./people/marc-raibert">마크 레이버트 Marc Raibert</a></p>
   </section>
   <section class="sector-card">
     <p class="sector-label">미디어·콘텐츠</p>
     <h3>대중 영향력과 플랫폼 감각</h3>
-    <p class="sector-people"><a href="/quartz/people/mrbeast">미스터비스트 MrBeast</a> · <a href="/quartz/people/joe-rogan">조 로건 Joe Rogan</a> · <a href="/quartz/people/cristiano-ronaldo">크리스티아누 호날두 Cristiano Ronaldo</a></p>
+    <p class="sector-people"><a href="./people/mrbeast">미스터비스트 MrBeast</a> · <a href="./people/joe-rogan">조 로건 Joe Rogan</a> · <a href="./people/cristiano-ronaldo">크리스티아누 호날두 Cristiano Ronaldo</a></p>
   </section>
 </div>
 
