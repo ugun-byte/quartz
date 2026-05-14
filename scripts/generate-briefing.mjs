@@ -54,6 +54,32 @@ function listYaml(values) {
   return `\n${arr.map((v) => `  - ${yamlString(v)}`).join("\n")}`
 }
 
+const attentionLabels = {
+  high: "높음",
+  medium: "중간",
+  low: "낮음",
+  높음: "높음",
+  중간: "중간",
+  낮음: "낮음",
+}
+
+function attentionLabel(value) {
+  return attentionLabels[value] || attentionLabels[String(value ?? "").toLowerCase()] || "중간"
+}
+
+function renderEditorialRules(lines) {
+  lines.push("## 편집 원칙")
+  lines.push("")
+  lines.push("- 원문 의미를 왜곡하지 않습니다.")
+  lines.push("- 과장된 해석을 하지 않습니다.")
+  lines.push("- 투자 판단처럼 보이는 문장은 피합니다.")
+  lines.push("- 분야별로 정리합니다.")
+  lines.push("- 각 인물별 내용을 사실 중심으로 정리합니다.")
+  lines.push("- 중요한 글은 **주목도: 높음/중간/낮음**으로 표시합니다.")
+  lines.push("- 모든 항목에 원문 링크를 남깁니다.")
+  lines.push("")
+}
+
 function renderBriefing(briefing) {
   const title = briefing.title || "Untitled Signal"
   const codename = slugify(briefing.codename || title) || fallbackCodename(briefing)
@@ -84,6 +110,8 @@ function renderBriefing(briefing) {
     lines.push("")
   }
 
+  renderEditorialRules(lines)
+
   const sections = Array.isArray(briefing.sections) ? briefing.sections : []
   for (const section of sections) {
     lines.push(`## ${section.title || section.sector || "Signal"}`)
@@ -98,6 +126,8 @@ function renderBriefing(briefing) {
       const handle = signal.handle ? `[@${signal.handle}](https://x.com/${signal.handle})` : ""
       lines.push(`### ${person}${handle ? ` ${handle}` : ""}`)
       lines.push("")
+      lines.push(`**주목도:** ${attentionLabel(signal.attention)}`)
+      lines.push("")
       if (signal.text) {
         lines.push(signal.text)
         lines.push("")
@@ -107,7 +137,10 @@ function renderBriefing(briefing) {
         lines.push("")
       }
       if (signal.url) {
-        lines.push(`원문: ${signal.url}`)
+        lines.push(`**원문:** ${signal.url}`)
+        lines.push("")
+      } else {
+        lines.push("**원문:** [blocked] 원문 링크가 없어 발행 전 보완이 필요합니다.")
         lines.push("")
       }
     }

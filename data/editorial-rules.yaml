@@ -1,0 +1,53 @@
+# Signal Cabinet editorial rules
+# These rules are mandatory for OpenClaw summary agents and Markdown generation.
+
+rules:
+  - id: no-distortion
+    title: 원문 의미를 왜곡하지 않는다
+    instruction: 원문 발언의 의미, 맥락, 뉘앙스를 임의로 바꾸지 않는다. 불확실하면 불확실하다고 표시한다.
+
+  - id: no-exaggeration
+    title: 과장된 해석을 하지 않는다
+    instruction: 원문에 없는 의도, 전망, 파급효과를 단정하지 않는다. 해석은 관찰 가능한 사실에 기반한다.
+
+  - id: no-investment-advice
+    title: 투자 판단처럼 보이는 문장은 피한다
+    instruction: 매수, 매도, 투자 추천, 수익 가능성, 가격 예측처럼 읽히는 표현을 쓰지 않는다.
+
+  - id: organize-by-sector
+    title: 분야별로 정리한다
+    instruction: 정치·공공, AI, 테크·IT, 투자·경제, 로봇·미래기술, 미디어·콘텐츠 등 분야 기준으로 묶는다.
+
+  - id: factual-by-person
+    title: 각 인물별로 내용을 사실대로 정리한다
+    instruction: 각 인물의 실제 발언, 공유, 링크, 맥락을 사실 중심으로 분리해서 정리한다.
+
+  - id: attention-level
+    title: 중요한 글은 주목도를 표시한다
+    instruction: "각 중요 글은 주목도: 높음/중간/낮음 중 하나를 붙인다. 기준은 영향 범위, 새 정보성, 분야 관련성이다."
+
+  - id: quartz-markdown
+    title: Quartz Markdown 형식으로 출력한다
+    instruction: frontmatter, 제목, 분야별 heading, 인물별 subsection, 태그를 포함한 Quartz 호환 Markdown으로 작성한다.
+
+  - id: preserve-source-link
+    title: 원문 링크를 반드시 남긴다
+    instruction: 모든 인물별 요약 항목에는 원문 X.com 링크 또는 확인 가능한 원문 링크를 반드시 포함한다.
+
+attentionLevels:
+  high: 높음
+  medium: 중간
+  low: 낮음
+
+attentionCriteria:
+  high:
+    - 공식 발표나 정책/제품/연구 방향 변화가 직접 드러나는 글
+    - 여러 분야에 파급될 수 있는 새 정보가 포함된 글
+    - 당일 브리핑의 핵심 신호로 볼 만한 글
+  medium:
+    - 분야 흐름을 이해하는 데 도움이 되는 글
+    - 기존 입장이나 활동을 보강하는 글
+    - 관련 인물/기관과의 연결성이 있는 글
+  low:
+    - 단순 반응, 인사, 행사 공유, 반복적 홍보성 글
+    - 맥락상 기록 가치는 있으나 핵심 신호는 약한 글

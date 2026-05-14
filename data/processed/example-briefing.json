@@ -15,7 +15,8 @@
           "person": "Sam Altman",
           "handle": "sama",
           "text": "예시 신호: 모델과 제품 방향에 대한 공개 발언 요약이 들어갑니다.",
-          "whyItMatters": "OpenAI 생태계의 제품 방향을 읽는 데 도움이 됩니다.",
+          "whyItMatters": "OpenAI 생태계의 제품 방향을 이해하는 데 도움이 됩니다. 투자 판단이나 가격 전망으로 해석하지 않습니다.",
+          "attention": "medium",
           "url": "https://x.com/sama"
         }
       ]
@@ -28,7 +29,8 @@
           "person": "Brett Adcock",
           "handle": "adcock_brett",
           "text": "예시 신호: 휴머노이드 로봇 배치와 생산 흐름에 관한 요약이 들어갑니다.",
-          "whyItMatters": "로봇 산업의 실제 배치 속도를 가늠하는 단서입니다.",
+          "whyItMatters": "로봇 산업의 실제 배치 속도를 이해하는 참고 자료입니다. 과장된 전망은 붙이지 않습니다.",
+          "attention": "low",
           "url": "https://x.com/adcock_brett"
         }
       ]

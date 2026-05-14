@@ -58,6 +58,9 @@ data/raw/2026-05-14/elon-musk.json
 - 분야별 변화
 - 주목할 연결고리
 - 원문 링크
+- 주목도: 높음/중간/낮음
+
+요약과 해석은 [[editorial-rules|Editorial Rules]]를 반드시 따릅니다.
 
 ## 4. Quartz Markdown 생성
 

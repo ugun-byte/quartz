@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Signal Cabinet",
-    pageTitleSuffix: " — Future Signals from Public Voices",
+    pageTitle: "시그널 캐비닛 | 세계 주요 인물 X 브리핑",
+    pageTitleSuffix: " — AI·테크·정치·투자 공개 발언 요약",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
