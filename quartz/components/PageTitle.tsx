@@ -39,7 +39,7 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
         <p class="site-subtitle-label">관측 인물</p>
         <div class="people-subtitle-list">
           {watchedPeople.map(([ko, en, slug]) => (
-            <a class="person-chip" href={`${baseDir}people/${slug}`}>
+            <a class="person-chip" href={`${baseDir}/people/${slug}`}>
               <span class="person-ko">{ko}</span>
               <span class="person-en">{en}</span>
             </a>
