@@ -108,53 +108,34 @@ PageTitle.css = `
 }
 
 .person-ko {
-  display: inline-block;
-  width: fit-content;
-  color: var(--dark);
+  display: block;
+  color: #ff9d00;
   font-size: 0.86rem;
   font-weight: 700;
   line-height: 1.2;
-  background: linear-gradient(
-    180deg,
-    transparent 0 34%,
-    rgb(255 157 0 / 0.48) 34% 100%
-  );
-  box-decoration-break: clone;
-  -webkit-box-decoration-break: clone;
-  padding: 0 0.12em;
-  border-radius: 0.18rem;
 }
 
 .person-en {
-  display: inline-block;
-  width: fit-content;
-  color: var(--darkgray);
+  display: block;
+  color: color-mix(in srgb, #ff9d00 72%, var(--darkgray) 28%);
   font-size: 0.72rem;
   line-height: 1.2;
-  background: linear-gradient(
-    180deg,
-    transparent 0 34%,
-    rgb(255 157 0 / 0.34) 34% 100%
-  );
-  box-decoration-break: clone;
-  -webkit-box-decoration-break: clone;
-  padding: 0 0.12em;
-  border-radius: 0.18rem;
 }
 
-.person-chip:hover .person-ko,
+.person-chip:hover .person-ko {
+  color: #ffb84d;
+}
+
 .person-chip:hover .person-en {
-  background: linear-gradient(
-    180deg,
-    transparent 0 28%,
-    rgb(255 157 0 / 0.68) 28% 100%
-  );
+  color: color-mix(in srgb, #ffb84d 72%, var(--darkgray) 28%);
 }
 
-.person-chip-atlas .person-ko,
+.person-chip-atlas .person-ko {
+  color: var(--dark);
+}
+
 .person-chip-atlas .person-en {
-  background: none;
-  padding: 0;
+  color: var(--darkgray);
 }
 
 @media all and (max-width: 800px) {
