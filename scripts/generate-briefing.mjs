@@ -136,7 +136,7 @@ function renderBriefing(briefing) {
       lines.push("")
       const attention = attentionLabel(signal.attention)
       lines.push(
-        `**주목도:** <span class="signal-attention signal-attention-${attentionClass(signal.attention)}">${attention}</span>`,
+        `<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-${attentionClass(signal.attention)}">${attention}</span>`,
       )
       lines.push("")
       if (signal.text) {

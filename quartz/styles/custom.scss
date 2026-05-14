@@ -77,6 +77,23 @@
   color: color-mix(in srgb, #ff9d00 72%, var(--darkgray) 28%);
 }
 
+.page article .signal-attention-label {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 0.35rem;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  color: color-mix(in srgb, #ff9d00 74%, var(--darkgray) 26%);
+  background: color-mix(in srgb, #ff9d00 18%, var(--light) 82%);
+  box-shadow: inset 0 0 0 1px color-mix(in srgb, #ff9d00 40%, var(--lightgray) 60%);
+  vertical-align: middle;
+}
+
 .page article .signal-attention {
   display: inline-flex;
   align-items: center;
@@ -146,6 +163,12 @@
   .page article a[href*="/people/"] {
     padding: 0 0.16em;
     border-radius: 0.14rem;
+  }
+
+  .page article .signal-attention-label {
+    margin-right: 0.28rem;
+    padding: 0.16rem 0.44rem;
+    font-size: 0.72rem;
   }
 
   .page article .signal-attention {

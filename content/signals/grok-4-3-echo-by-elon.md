@@ -20,7 +20,7 @@ draft: false
 
 ### <span class="signal-target-name">Elon Musk</span> (@elonmusk)
 
-**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-medium">중간</span>
 
 - 관측 시간(UTC): 2026-05-14T05:24:24Z (KST: 2026-05-14 14:24)
 - 관측 내용: Elon Musk의 프로필에서 Adam Lowisz의 글("Grok 4.3 is next level")이 리포스트되어 노출됨. 사이트에서의 표기는 'Elon Musk reposted Adam Lowisz'.
