@@ -1,6 +1,6 @@
 ---
-title: "The Signal Cabinet Opens"
-description: "Signal Cabinet의 시작 선언: 유명 인물의 공개 발언을 미래 신호로 읽는 실험"
+title: "시그널 캐비닛이 문을 엽니다"
+description: "시그널 캐비닛의 시작 선언: 유명 인물의 공개 발언을 미래 신호로 읽는 실험"
 tags:
   - signal-cabinet
   - manifesto
@@ -8,7 +8,7 @@ tags:
 draft: false
 ---
 
-# The Signal Cabinet Opens
+# 시그널 캐비닛이 문을 엽니다
 
 뉴스는 너무 많고, 진짜 신호는 너무 작습니다.
 

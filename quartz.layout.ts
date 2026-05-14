@@ -24,6 +24,36 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "최신 브리핑 3선",
+        limit: 3,
+        showTags: true,
+        linkToMore: false,
+        filter: (f) => String(f.slug ?? "").startsWith("signals/"),
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "이 인물 관련 브리핑",
+        limit: 4,
+        showTags: true,
+        linkToMore: false,
+        filter: (f, current) => {
+          const currentSlug = String(current.slug ?? "")
+          const personSlug = currentSlug.startsWith("people/") ? currentSlug.split("/").pop() : null
+          const tags = Array.isArray(f.frontmatter?.tags) ? f.frontmatter.tags : []
+          return (
+            !!personSlug &&
+            String(f.slug ?? "").startsWith("signals/") &&
+            tags.includes(personSlug) &&
+            f.slug !== current.slug
+          )
+        },
+      }),
+      condition: (page) => String(page.fileData.slug ?? "").startsWith("people/"),
+    }),
   ],
   left: [
     Component.PageTitle(),

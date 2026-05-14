@@ -2,7 +2,7 @@
 title: "최근 1주일 세계 주요 인물 X 브리핑: AI 모델·인도 인프라·휴머노이드 로봇"
 description: "2026년 5월 8일~14일 사이 세계 주요 인물의 X.com 공개 발언 가운데 제품, 정책, 연구, 인프라, 로봇 배치와 관련된 신호를 분야별로 정리한 한국어 브리핑"
 date: "2026-05-14"
-tags: 
+tags:
   - "signal-cabinet"
   - "x-briefing"
   - "세계-주요-인물"
@@ -10,6 +10,14 @@ tags:
   - "주간-브리핑"
   - "AI"
   - "로봇"
+  - "narendra-modi"
+  - "sam-altman"
+  - "demis-hassabis"
+  - "sundar-pichai"
+  - "cathie-wood"
+  - "reid-hoffman"
+  - "brett-adcock"
+  - "mrbeast"
 draft: false
 ---
 
