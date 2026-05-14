@@ -1,0 +1,21 @@
+{
+  "collectedAt": "2026-05-15T08:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T04:01:00+09:00",
+    "endKst": "2026-05-15T08:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "sector": "테크·IT",
+  "url": "https://x.com/elonmusk/status/2055008501722943750",
+  "postedAtUtc": "2026-05-14T19:33:01.000Z",
+  "postedAtKst": "2026-05-15T04:33:01+09:00",
+  "text": "Try this early Grok Build (anything) beta and let us know what to improve. Much appreciated!",
+  "quote": {
+    "author": "xAI",
+    "handle": "xai",
+    "text": "An early beta of Grok Build, an agentic CLI for coding, building apps, and automating workflows is now available for SuperGrok Heavy subscribers. Through this early beta, we will improve the model and product based on feedback. Try it at x.ai/cli.",
+    "url": "https://x.com/xai"
+  }
+}

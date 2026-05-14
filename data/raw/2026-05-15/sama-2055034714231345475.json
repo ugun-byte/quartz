@@ -1,0 +1,21 @@
+{
+  "collectedAt": "2026-05-15T08:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T04:01:00+09:00",
+    "endKst": "2026-05-15T08:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Sam Altman",
+  "handle": "sama",
+  "sector": "AI",
+  "url": "https://x.com/sama/status/2055034714231345475",
+  "postedAtUtc": "2026-05-14T21:17:11.000Z",
+  "postedAtKst": "2026-05-15T06:17:11+09:00",
+  "text": "also all this:",
+  "quote": {
+    "author": "OpenAI Developers",
+    "handle": "OpenAIDevs",
+    "text": "Codex is getting easier to automate and customize around your code. Hooks customize the Codex loop with scripts that run at key points in a task: run validators before or after work, scan prompts for secrets, log conversations to internal systems, create memories or other workflow extensions. Visible text was partially truncated in the X search result.",
+    "url": "https://x.com/OpenAIDevs"
+  }
+}

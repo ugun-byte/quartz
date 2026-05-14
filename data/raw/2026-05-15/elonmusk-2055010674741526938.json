@@ -1,0 +1,20 @@
+{
+  "collectedAt": "2026-05-15T08:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T04:01:00+09:00",
+    "endKst": "2026-05-15T08:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "sector": "테크·IT",
+  "url": "https://x.com/elonmusk/status/2055010674741526938",
+  "postedAtUtc": "2026-05-14T19:41:39.000Z",
+  "postedAtKst": "2026-05-15T04:41:39+09:00",
+  "text": "Try it out!",
+  "quote": {
+    "author": "Jason Ginsberg",
+    "handle": "JasonBud",
+    "text": "Grok Build is also a really great interface for running subagents, which it often uses to check its own work."
+  }
+}

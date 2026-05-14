@@ -1,0 +1,20 @@
+{
+  "collectedAt": "2026-05-15T08:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T04:01:00+09:00",
+    "endKst": "2026-05-15T08:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "sector": "테크·IT",
+  "url": "https://x.com/elonmusk/status/2055010870573633859",
+  "postedAtUtc": "2026-05-14T19:42:26.000Z",
+  "postedAtKst": "2026-05-15T04:42:26+09:00",
+  "text": "Grok Build",
+  "quote": {
+    "author": "Jason Ginsberg",
+    "handle": "JasonBud",
+    "text": "Grok Build is a fully interactive CLI, including mouse support, and is useful when running multiple agents and jumping between plans."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "collectedAt": "2026-05-15T08:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T04:01:00+09:00",
+    "endKst": "2026-05-15T08:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Sam Altman",
+  "handle": "sama",
+  "sector": "AI",
+  "url": "https://x.com/sama/status/2055034461591588916",
+  "postedAtUtc": "2026-05-14T21:16:10.000Z",
+  "postedAtKst": "2026-05-15T06:16:10+09:00",
+  "text": "Codex in the ChatGPT mobile app!"
+}
