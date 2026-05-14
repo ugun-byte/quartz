@@ -41,6 +41,13 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
+    Component.RecentNotes({
+      title: "최신 브리핑",
+      limit: 6,
+      showTags: true,
+      linkToMore: false,
+      filter: (f) => String(f.slug ?? "").startsWith("signals/"),
+    }),
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
@@ -64,5 +71,13 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-  right: [],
+  right: [
+    Component.RecentNotes({
+      title: "최신 브리핑",
+      limit: 6,
+      showTags: true,
+      linkToMore: false,
+      filter: (f) => String(f.slug ?? "").startsWith("signals/"),
+    }),
+  ],
 }
