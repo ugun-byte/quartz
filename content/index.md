@@ -18,31 +18,11 @@ tags:
 
 - [[signals/the-week-of-models-rails-and-machines|최근 1주일 세계 주요 인물 X 브리핑: AI 모델·인도 인프라·휴머노이드 로봇]]
 
-## 지금 관측 중인 인물
+## 빠른 탐색
 
-### 정치·공공
-
-[도널드 트럼프 Donald Trump](https://x.com/realDonaldTrump) · [나렌드라 모디 Narendra Modi](https://x.com/narendramodi)
-
-### AI
-
-[샘 올트먼 Sam Altman](https://x.com/sama) · [안드레이 카파시 Andrej Karpathy](https://x.com/karpathy) · [얀 르쿤 Yann LeCun](https://x.com/ylecun) · [데미스 허사비스 Demis Hassabis](https://x.com/demishassabis)
-
-### 테크·IT
-
-[일론 머스크 Elon Musk](https://x.com/elonmusk) · [마크 저커버그 Mark Zuckerberg](https://x.com/finkd) · [사티아 나델라 Satya Nadella](https://x.com/satyanadella) · [순다르 피차이 Sundar Pichai](https://x.com/sundarpichai) · [팀 쿡 Tim Cook](https://x.com/tim_cook) · [리사 수 Lisa Su](https://x.com/LisaSu) · 젠슨 황 Jensen Huang _(개인 X 미확정)_
-
-### 투자·경제
-
-[캐시 우드 Cathie Wood](https://x.com/CathieDWood) · [피터 틸 Peter Thiel](https://x.com/peterthiel) · [리드 호프먼 Reid Hoffman](https://x.com/reidhoffman)
-
-### 로봇·미래기술
-
-[브렛 애드콕 Brett Adcock](https://x.com/adcock_brett) · 마크 레이버트 Marc Raibert _(개인 X 미확정)_
-
-### 미디어·콘텐츠
-
-[미스터비스트 MrBeast](https://x.com/MrBeast) · [조 로건 Joe Rogan](https://x.com/joerogan) · [크리스티아누 호날두 Cristiano Ronaldo](https://x.com/Cristiano)
+- **왼쪽 사이드바**에서 인물 이름을 한글·영문으로 바로 클릭해 들어갈 수 있습니다.
+- 전체 감시 대상은 [[atlas/people|인물 아틀라스]]에서 한 번에 볼 수 있습니다.
+- 인물별 페이지에서는 해당 인물의 기본 정보와 최근 브리핑 연결을 확인할 수 있습니다.
 
 ## 이 사이트는 이렇게 읽으면 됩니다
 
