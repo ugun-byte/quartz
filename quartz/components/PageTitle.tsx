@@ -108,18 +108,53 @@ PageTitle.css = `
 }
 
 .person-ko {
-  display: block;
+  display: inline-block;
+  width: fit-content;
   color: var(--dark);
   font-size: 0.86rem;
   font-weight: 700;
   line-height: 1.2;
+  background: linear-gradient(
+    180deg,
+    transparent 0 34%,
+    rgb(255 157 0 / 0.48) 34% 100%
+  );
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0 0.12em;
+  border-radius: 0.18rem;
 }
 
 .person-en {
-  display: block;
+  display: inline-block;
+  width: fit-content;
   color: var(--darkgray);
   font-size: 0.72rem;
   line-height: 1.2;
+  background: linear-gradient(
+    180deg,
+    transparent 0 34%,
+    rgb(255 157 0 / 0.34) 34% 100%
+  );
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  padding: 0 0.12em;
+  border-radius: 0.18rem;
+}
+
+.person-chip:hover .person-ko,
+.person-chip:hover .person-en {
+  background: linear-gradient(
+    180deg,
+    transparent 0 28%,
+    rgb(255 157 0 / 0.68) 28% 100%
+  );
+}
+
+.person-chip-atlas .person-ko,
+.person-chip-atlas .person-en {
+  background: none;
+  padding: 0;
 }
 
 @media all and (max-width: 800px) {
