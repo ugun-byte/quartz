@@ -45,7 +45,7 @@ draft: false
 
 ### <span class="signal-target-name">Narendra Modi</span> [@narendramodi](https://x.com/narendramodi)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 5월 13일 Narendra Modi는 내각이 승인한 석탄·갈탄 가스화 프로젝트 지원책이 에너지 안보를 강화하고, 투자와 일자리 창출, 기술·혁신 시스템 강화에 힘을 보탤 것이라고 설명했습니다.
 
@@ -55,7 +55,7 @@ draft: false
 
 ### <span class="signal-target-name">Narendra Modi</span> [@narendramodi](https://x.com/narendramodi)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 같은 날 Modi는 Ahmedabad(Sarkhej)-Dholera 구간의 반고속 복선 철도 프로젝트를 인도 자체 기술로 추진하는 첫 사례라고 소개하며, 연결성 강화와 이동 시간 단축, 철도 현대화에 의미를 부여했습니다.
 
@@ -69,7 +69,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Sam Altman</span> [@sama](https://x.com/sama)
 
-**주목도:** 높음
+**주목도:** <span class="signal-attention signal-attention-high">높음</span>
 
 5월 14일 Sam Altman은 Codex를 더 쉽게 시도할 수 있도록, 전환을 검토하는 기업에 향후 30일 동안 2개월 무료 사용을 제공하겠다고 밝혔습니다.
 
@@ -79,7 +79,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Sam Altman</span> [@sama](https://x.com/sama)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 5월 12일 Sam Altman은 새로운 ChatGPT 모델, personality, personalization의 조합이 자신에게는 새로운 단계처럼 느껴진다고 적었습니다.
 
@@ -89,7 +89,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Demis Hassabis</span> [@demishassabis](https://x.com/demishassabis)
 
-**주목도:** 높음
+**주목도:** <span class="signal-attention signal-attention-high">높음</span>
 
 5월 12일 Demis Hassabis는 AlphaFold에서 시작된 AI 기반 신약개발 비전을 언급하며, Isomorphic Labs가 21억 달러 신규 자금을 확보했다고 밝혔습니다.
 
@@ -99,7 +99,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Demis Hassabis</span> [@demishassabis](https://x.com/demishassabis)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 5월 13일 Demis Hassabis는 Google AI Studio에서 시도할 수 있는, AI로 더 지능적으로 바뀐 마우스 포인터 실험을 소개했습니다.
 
@@ -113,7 +113,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Sundar Pichai</span> [@sundarpichai](https://x.com/sundarpichai)
 
-**주목도:** 높음
+**주목도:** <span class="signal-attention signal-attention-high">높음</span>
 
 5월 13일 Sundar Pichai는 Android Show(I/O edition)에서 Gemini Intelligence를 발표하며, 앱과 Chrome을 넘나드는 다단계 작업 자동화, 폼 자동 입력, 음성 기반 글 다듬기 등을 소개했습니다.
 
@@ -123,7 +123,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Sundar Pichai</span> [@sundarpichai](https://x.com/sundarpichai)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 5월 12일 Sundar Pichai는 Android와 iPhone 사용자 간 RCS 메시지에 종단간 암호화가 단계적으로 적용되기 시작했다고 알렸습니다.
 
@@ -137,7 +137,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Brett Adcock</span> [@adcock_brett](https://x.com/adcock_brett)
 
-**주목도:** 높음
+**주목도:** <span class="signal-attention signal-attention-high">높음</span>
 
 5월 14일 Brett Adcock은 humanoid 로봇 팀이 Helix-02를 사용해 인간 수준 성능으로 8시간 교대 근무를 수행하는 모습을 라이브로 보여준다고 밝혔습니다.
 
@@ -147,7 +147,7 @@ AI 분야에서는 제품 사용성, 코딩 도구 확장, 개인화, 그리고 
 
 ### <span class="signal-target-name">Brett Adcock</span> [@adcock_brett](https://x.com/adcock_brett)
 
-**주목도:** 중간
+**주목도:** <span class="signal-attention signal-attention-medium">중간</span>
 
 같은 흐름에서 Adcock은 해당 라이브스트림의 작업이 소형 패키지 분류이며, 로봇이 바코드를 인식하고 물체를 집어 방향을 재정렬해야 한다고 추가 설명했습니다.
 

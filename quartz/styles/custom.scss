@@ -77,6 +77,38 @@
   color: color-mix(in srgb, #ff9d00 72%, var(--darkgray) 28%);
 }
 
+.page article .signal-attention {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 3.5rem;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: 0.01em;
+  vertical-align: middle;
+}
+
+.page article .signal-attention-high {
+  color: #fff7ed;
+  background: linear-gradient(180deg, #ff9d00 0%, #ff7a00 100%);
+  box-shadow: inset 0 0 0 1px rgb(255 184 77 / 0.25);
+}
+
+.page article .signal-attention-medium {
+  color: #3b2a00;
+  background: linear-gradient(180deg, #ffd166 0%, #ffbd2e 100%);
+  box-shadow: inset 0 0 0 1px rgb(255 234 184 / 0.42);
+}
+
+.page article .signal-attention-low {
+  color: #f4f4f5;
+  background: linear-gradient(180deg, #737373 0%, #525252 100%);
+  box-shadow: inset 0 0 0 1px rgb(255 255 255 / 0.08);
+}
+
 @media all and (max-width: 800px) {
   article h1 {
     line-height: 1.2;
@@ -114,5 +146,11 @@
   .page article a[href*="/people/"] {
     padding: 0 0.16em;
     border-radius: 0.14rem;
+  }
+
+  .page article .signal-attention {
+    min-width: 3.2rem;
+    padding: 0.16rem 0.48rem;
+    font-size: 0.76rem;
   }
 }

@@ -67,6 +67,13 @@ function attentionLabel(value) {
   return attentionLabels[value] || attentionLabels[String(value ?? "").toLowerCase()] || "중간"
 }
 
+function attentionClass(value) {
+  const label = attentionLabel(value)
+  if (label === "높음") return "high"
+  if (label === "낮음") return "low"
+  return "medium"
+}
+
 function renderEditorialRules(lines) {
   lines.push("## 편집 원칙")
   lines.push("")
@@ -127,7 +134,10 @@ function renderBriefing(briefing) {
       const handle = signal.handle ? `[@${signal.handle}](https://x.com/${signal.handle})` : ""
       lines.push(`### ${personHeading}${handle ? ` ${handle}` : ""}`)
       lines.push("")
-      lines.push(`**주목도:** ${attentionLabel(signal.attention)}`)
+      const attention = attentionLabel(signal.attention)
+      lines.push(
+        `**주목도:** <span class="signal-attention signal-attention-${attentionClass(signal.attention)}">${attention}</span>`,
+      )
       lines.push("")
       if (signal.text) {
         lines.push(signal.text)
