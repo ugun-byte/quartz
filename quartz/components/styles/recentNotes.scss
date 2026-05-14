@@ -28,6 +28,17 @@
         background-color: transparent;
       }
 
+      .section > .desc > .summary {
+        margin: 0.5rem 0 0;
+        color: var(--darkgray);
+        font-size: 0.9rem;
+        line-height: 1.45;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
       .section > .meta {
         margin: 0.45rem 0 0.6rem 0;
         opacity: 0.68;

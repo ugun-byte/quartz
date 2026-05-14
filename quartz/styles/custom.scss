@@ -1,3 +1,40 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+.sector-showcase {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 0.9rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.sector-card {
+  padding: 1rem 1.05rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 1rem;
+  background: color-mix(in srgb, var(--light) 91%, var(--secondary) 9%);
+  box-shadow: 0 1px 2px rgb(0 0 0 / 0.03);
+}
+
+.sector-card h3 {
+  margin: 0.2rem 0 0.5rem;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.sector-label {
+  margin: 0;
+  color: var(--secondary);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.sector-people {
+  margin: 0;
+  color: var(--darkgray);
+  line-height: 1.55;
+}
+
+.sector-people a {
+  font-weight: 600;
+}
