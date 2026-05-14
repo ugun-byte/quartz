@@ -1,0 +1,188 @@
+# X.com collection target list for Quartz briefing blog
+# Generated as an initial candidate list. `confidence: medium/low` entries should be reviewed before long-term automation.
+# `collect: false` means no reliable personal X account was confirmed yet; use fallback org/news sources only if 대표님 approves.
+
+people:
+  - name: Donald Trump
+    slug: donald-trump
+    sector: 정치·공공
+    x_handle: realDonaldTrump
+    x_url: https://x.com/realDonaldTrump
+    collect: true
+    confidence: high
+    notes: "Primary personal account; POTUS account can be tracked separately if needed."
+
+  - name: Narendra Modi
+    slug: narendra-modi
+    sector: 정치·공공
+    x_handle: narendramodi
+    x_url: https://x.com/narendramodi
+    collect: true
+    confidence: high
+    notes: "Personal/prime minister account."
+
+  - name: Sam Altman
+    slug: sam-altman
+    sector: AI
+    x_handle: sama
+    x_url: https://x.com/sama
+    collect: true
+    confidence: high
+
+  - name: Andrej Karpathy
+    slug: andrej-karpathy
+    sector: AI
+    x_handle: karpathy
+    x_url: https://x.com/karpathy
+    collect: true
+    confidence: high
+    notes: "Confirmed from personal website link."
+
+  - name: Yann LeCun
+    slug: yann-lecun
+    sector: AI
+    x_handle: ylecun
+    x_url: https://x.com/ylecun
+    collect: true
+    confidence: high
+    notes: "Own website says he no longer writes posts on X; keep active but expect low/no direct posts."
+
+  - name: Demis Hassabis
+    slug: demis-hassabis
+    sector: AI
+    x_handle: demishassabis
+    x_url: https://x.com/demishassabis
+    collect: true
+    confidence: high
+
+  - name: Elon Musk
+    slug: elon-musk
+    sector: 테크·IT
+    x_handle: elonmusk
+    x_url: https://x.com/elonmusk
+    collect: true
+    confidence: high
+
+  - name: Mark Zuckerberg
+    slug: mark-zuckerberg
+    sector: 테크·IT
+    x_handle: finkd
+    x_url: https://x.com/finkd
+    collect: true
+    confidence: medium
+    notes: "Real account appears inactive/rarely used; consider adding Threads/Facebook separately later."
+
+  - name: Satya Nadella
+    slug: satya-nadella
+    sector: 테크·IT
+    x_handle: satyanadella
+    x_url: https://x.com/satyanadella
+    collect: true
+    confidence: high
+
+  - name: Sundar Pichai
+    slug: sundar-pichai
+    sector: 테크·IT
+    x_handle: sundarpichai
+    x_url: https://x.com/sundarpichai
+    collect: true
+    confidence: high
+
+  - name: Tim Cook
+    slug: tim-cook
+    sector: 테크·IT
+    x_handle: tim_cook
+    x_url: https://x.com/tim_cook
+    collect: true
+    confidence: high
+
+  - name: Lisa Su
+    slug: lisa-su
+    sector: 테크·IT
+    x_handle: LisaSu
+    x_url: https://x.com/LisaSu
+    collect: true
+    confidence: high
+
+  - name: Jensen Huang
+    slug: jensen-huang
+    sector: 테크·IT
+    x_handle: null
+    x_url: null
+    collect: false
+    confidence: none
+    fallback_handles:
+      - NVIDIA
+    fallback_urls:
+      - https://x.com/NVIDIA
+    notes: "Reliable personal X account not confirmed. Recommend tracking NVIDIA official account or news mentions."
+
+  - name: Cathie Wood
+    slug: cathie-wood
+    sector: 투자·경제
+    x_handle: CathieDWood
+    x_url: https://x.com/CathieDWood
+    collect: true
+    confidence: high
+
+  - name: Peter Thiel
+    slug: peter-thiel
+    sector: 투자·경제
+    x_handle: peterthiel
+    x_url: https://x.com/peterthiel
+    collect: true
+    confidence: medium
+    notes: "Candidate account found; verify before treating as definitive official source."
+
+  - name: Reid Hoffman
+    slug: reid-hoffman
+    sector: 투자·경제
+    x_handle: reidhoffman
+    x_url: https://x.com/reidhoffman
+    collect: true
+    confidence: high
+
+  - name: Brett Adcock
+    slug: brett-adcock
+    sector: 로봇·미래기술
+    x_handle: adcock_brett
+    x_url: https://x.com/adcock_brett
+    collect: true
+    confidence: high
+
+  - name: Marc Raibert
+    slug: marc-raibert
+    sector: 로봇·미래기술
+    x_handle: null
+    x_url: null
+    collect: false
+    confidence: none
+    fallback_handles:
+      - BostonDynamics
+    fallback_urls:
+      - https://x.com/BostonDynamics
+    notes: "Reliable personal X account not confirmed. Recommend tracking Boston Dynamics official account or mentions."
+
+  - name: MrBeast
+    slug: mrbeast
+    sector: 미디어·콘텐츠
+    x_handle: MrBeast
+    x_url: https://x.com/MrBeast
+    collect: true
+    confidence: high
+
+  - name: Joe Rogan
+    slug: joe-rogan
+    sector: 미디어·콘텐츠
+    x_handle: joerogan
+    x_url: https://x.com/joerogan
+    collect: true
+    confidence: high
+
+  - name: Cristiano Ronaldo
+    slug: cristiano-ronaldo
+    sector: 미디어·콘텐츠
+    x_handle: Cristiano
+    x_url: https://x.com/Cristiano
+    collect: true
+    confidence: high

@@ -1,0 +1,37 @@
+{
+  "title": "The Cabinet of Fire and Silicon",
+  "codename": "the-cabinet-of-fire-and-silicon",
+  "description": "정치와 실리콘밸리의 공개 발언이 같은 방향을 가리키는 날의 예시 브리핑",
+  "publishedAt": "2026-05-14T06:00:00+09:00",
+  "window": "최근 4시간",
+  "tags": ["signal-cabinet", "x-briefing", "example"],
+  "summary": "이 파일은 자동 생성 포맷 예시입니다. 실제 운영에서는 X.com 수집 데이터와 OpenClaw 요약 결과가 이 구조로 들어오며, Markdown 파일명은 날짜가 아니라 codename을 사용합니다.",
+  "sections": [
+    {
+      "sector": "AI",
+      "title": "AI 신호",
+      "signals": [
+        {
+          "person": "Sam Altman",
+          "handle": "sama",
+          "text": "예시 신호: 모델과 제품 방향에 대한 공개 발언 요약이 들어갑니다.",
+          "whyItMatters": "OpenAI 생태계의 제품 방향을 읽는 데 도움이 됩니다.",
+          "url": "https://x.com/sama"
+        }
+      ]
+    },
+    {
+      "sector": "로봇·미래기술",
+      "title": "로봇 신호",
+      "signals": [
+        {
+          "person": "Brett Adcock",
+          "handle": "adcock_brett",
+          "text": "예시 신호: 휴머노이드 로봇 배치와 생산 흐름에 관한 요약이 들어갑니다.",
+          "whyItMatters": "로봇 산업의 실제 배치 속도를 가늠하는 단서입니다.",
+          "url": "https://x.com/adcock_brett"
+        }
+      ]
+    }
+  ]
+}

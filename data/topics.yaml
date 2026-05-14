@@ -1,0 +1,19 @@
+topics:
+  - id: politics-public
+    name: 정치·공공
+    description: 국가 운영, 외교, 규제, 공공 정책 신호
+  - id: ai
+    name: AI
+    description: 모델, 연구, AGI, AI 제품과 철학 신호
+  - id: tech-it
+    name: 테크·IT
+    description: 빅테크, 반도체, 플랫폼, 디바이스 신호
+  - id: investment-economy
+    name: 투자·경제
+    description: 시장, 자본, 혁신 투자, 경제 관점 신호
+  - id: robotics-future
+    name: 로봇·미래기술
+    description: 휴머노이드, 자동화, 미래 하드웨어 신호
+  - id: media-content
+    name: 미디어·콘텐츠
+    description: 크리에이터 경제, 대중 영향력, 콘텐츠 플랫폼 신호
