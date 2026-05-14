@@ -68,19 +68,21 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
-    Component.RecentNotes({
-      title: "최신 브리핑",
-      limit: 6,
-      showTags: true,
-      linkToMore: false,
-      filter: (f) => String(f.slug ?? "").startsWith("signals/"),
-    }),
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "최신 브리핑",
+        limit: 6,
+        showTags: true,
+        linkToMore: false,
+        filter: (f) => String(f.slug ?? "").startsWith("signals/"),
+      }),
+    ),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    Component.DesktopOnly(Component.Backlinks()),
   ],
 }
 
@@ -99,16 +101,18 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
-    Component.RecentNotes({
-      title: "최신 브리핑",
-      limit: 6,
-      showTags: true,
-      linkToMore: false,
-      filter: (f) => String(f.slug ?? "").startsWith("signals/"),
-    }),
+    Component.DesktopOnly(Component.Graph()),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "최신 브리핑",
+        limit: 6,
+        showTags: true,
+        linkToMore: false,
+        filter: (f) => String(f.slug ?? "").startsWith("signals/"),
+      }),
+    ),
   ],
 }

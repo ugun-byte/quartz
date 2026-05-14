@@ -44,6 +44,10 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
               <span class="person-en">{en}</span>
             </a>
           ))}
+          <a class="person-chip person-chip-atlas" href={`${baseDir}/atlas/people`}>
+            <span class="person-ko">전체 인물 보기</span>
+            <span class="person-en">People Atlas</span>
+          </a>
         </div>
       </div>
     </div>
@@ -99,6 +103,10 @@ PageTitle.css = `
   background: color-mix(in srgb, var(--light) 78%, var(--secondary) 22%);
 }
 
+.person-chip-atlas {
+  border-style: dashed;
+}
+
 .person-ko {
   display: block;
   color: var(--dark);
@@ -112,6 +120,53 @@ PageTitle.css = `
   color: var(--darkgray);
   font-size: 0.72rem;
   line-height: 1.2;
+}
+
+@media all and (max-width: 800px) {
+  .site-identity {
+    margin-bottom: 0.85rem;
+  }
+
+  .page-title {
+    font-size: 1.24rem;
+  }
+
+  .site-subtitle {
+    margin-top: 0.55rem;
+    padding-top: 0.55rem;
+  }
+
+  .site-subtitle-label {
+    margin-bottom: 0.45rem;
+    font-size: 0.75rem;
+  }
+
+  .people-subtitle-list {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(9.75rem, 78vw);
+    gap: 0.45rem;
+    max-height: none;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0 0 0.2rem 0;
+    scroll-snap-type: x proximity;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .person-chip {
+    min-height: 3.2rem;
+    padding: 0.45rem 0.55rem;
+    scroll-snap-align: start;
+  }
+
+  .person-ko {
+    font-size: 0.82rem;
+  }
+
+  .person-en {
+    font-size: 0.69rem;
+  }
 }
 `
 
