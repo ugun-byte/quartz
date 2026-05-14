@@ -1,0 +1,15 @@
+{
+  "collectedAt": "2026-05-15T04:02:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T00:01:00+09:00",
+    "endKst": "2026-05-15T04:01:00+09:00"
+  },
+  "source": "X.com search/status page via Chrome DevTools",
+  "person": "Brett Adcock",
+  "handle": "adcock_brett",
+  "sector": "로봇·미래기술",
+  "url": "https://x.com/adcock_brett/status/2054970993442169230",
+  "postedAtUtc": "2026-05-14T17:03:59.008Z",
+  "postedAtKst": "2026-05-15T02:03:59.008+09:00",
+  "text": "Day 2 is Live: Watch humanoid robots Bob, Frank, and Gary running 24/7. This is fully autonomous running Helix-02"
+}

@@ -1,0 +1,21 @@
+{
+  "collectedAt": "2026-05-15T04:02:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T00:01:00+09:00",
+    "endKst": "2026-05-15T04:01:00+09:00"
+  },
+  "source": "X.com search via Chrome DevTools",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "sector": "테크·IT",
+  "url": "https://x.com/elonmusk/status/2054979419736035680",
+  "postedAtUtc": "2026-05-14T17:37:27.993Z",
+  "postedAtKst": "2026-05-15T02:37:27.993+09:00",
+  "text": "Hmm",
+  "quote": {
+    "author": "Garry Tan",
+    "handle": "garrytan",
+    "text": "Sanders and AOC introduced a bill to pause ALL AI data center construction. 300+ local bills filed. Half of planned 2026 data centers facing delays or cancellation. Each one brings billions to local economies. The people who say they want American jobs are trying to block the...",
+    "url": "https://x.com/garrytan/status/2054904105018237125"
+  }
+}
