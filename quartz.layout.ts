@@ -3,7 +3,24 @@ import * as Component from "./quartz/components"
 
 const explorerFilter = (node: any) => {
   const slug = String(node.slug ?? "")
-  return node.slugSegment !== "tags" && !(slug.startsWith("daily/") && slug !== "daily/index")
+
+  if (node.slugSegment === "tags") return false
+
+  if (slug.startsWith("daily/") && slug !== "daily/index") {
+    const datePart = slug.replace("daily/", "").replace("/index", "")
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(datePart)) return false
+
+    const today = new Date()
+    const todayKst = new Date(today.toLocaleString("en-US", { timeZone: "Asia/Seoul" }))
+    todayKst.setHours(0, 0, 0, 0)
+
+    const target = new Date(`${datePart}T00:00:00+09:00`)
+    const diffDays = Math.floor((todayKst.getTime() - target.getTime()) / 86_400_000)
+
+    return diffDays >= 0 && diffDays < 7
+  }
+
+  return true
 }
 
 // components shared across all pages
