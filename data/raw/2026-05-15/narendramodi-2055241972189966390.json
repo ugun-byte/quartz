@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-05-15T20:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T16:01:00+09:00",
+    "endKst": "2026-05-15T20:01:00+09:00"
+  },
+  "source": "X.com GraphQL public timeline via guest token",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2055241972189966390",
+  "postedAtUtc": "2026-05-15T11:00:45+00:00",
+  "postedAtKst": "2026-05-15T20:00:45+09:00",
+  "text": "ناقشتُ مع أخي، صاحب السمو الشيخ محمد بن زايد آل نهيان، سُبُل تعميق الشراكة الاستراتيجية الشاملة بين الهند والإمارات، وتعزيز الروابط في قطاعاتٍ مثل التجارة والطاقة وغيرها. https://t.co/0VdZkGS1I2",
+  "included": false,
+  "reason": "Duplicate Arabic version, ceremony post, or low-context auxiliary update; archived but not included as separate signal",
+  "media": [
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055241972189966390/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWvgENa0AAjSKe.jpg"
+    },
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055241972189966390/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWvjFNbkAA8mIk.jpg"
+    }
+  ]
+}

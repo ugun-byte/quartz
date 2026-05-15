@@ -1,0 +1,24 @@
+{
+  "collectedAt": "2026-05-15T20:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T16:01:00+09:00",
+    "endKst": "2026-05-15T20:01:00+09:00"
+  },
+  "source": "X.com GraphQL public timeline via guest token",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2055194908663968057",
+  "postedAtUtc": "2026-05-15T07:53:44+00:00",
+  "postedAtKst": "2026-05-15T16:53:44+09:00",
+  "text": "I thank my brother HH Sheikh Mohamed bin Zayed Al Nahyan, President of the UAE, for the special gesture of receiving me at Abu Dhabi airport. I look forward to our discussions towards furthering India-UAE ties across key sectors like energy, investment, supply chains and more.\n\n@MohamedBinZayed",
+  "included": true,
+  "reason": "India-UAE official visit / strategic partnership outcomes signal",
+  "media": [
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055194908663968057/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWEsHfbIAAaNN9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-05-15T20:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T16:01:00+09:00",
+    "endKst": "2026-05-15T20:01:00+09:00"
+  },
+  "source": "X.com GraphQL public timeline via guest token",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2055190420171460961",
+  "postedAtUtc": "2026-05-15T07:35:54+00:00",
+  "postedAtKst": "2026-05-15T16:35:54+09:00",
+  "text": "Sharing my remarks during meeting with my brother, His Highness Sheikh Mohamed bin Zayed Al Nahyan.  \n\n@MohamedBinZayed https://t.co/j1hoGlPDib",
+  "included": false,
+  "reason": "Duplicate Arabic version, ceremony post, or low-context auxiliary update; archived but not included as separate signal"
+}

@@ -1,0 +1,39 @@
+{
+  "collectedAt": "2026-05-15T20:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T16:01:00+09:00",
+    "endKst": "2026-05-15T20:01:00+09:00"
+  },
+  "source": "X.com GraphQL public timeline via guest token",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2055209816336068879",
+  "postedAtUtc": "2026-05-15T08:52:58+00:00",
+  "postedAtKst": "2026-05-15T17:52:58+09:00",
+  "text": "The friendship between India and UAE is very strong! Our nations will keep working together with the aim of building a better future for our planet.\n\n@MohamedBinZayed https://t.co/TzjU63GFll",
+  "included": false,
+  "reason": "Duplicate Arabic version, ceremony post, or low-context auxiliary update; archived but not included as separate signal",
+  "media": [
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055209816336068879/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWSKYKbAAA_biH.jpg"
+    },
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055209816336068879/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWSMJvbQAA-8zW.jpg"
+    },
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055209816336068879/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWSNuMaoAAHiPz.jpg"
+    },
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055209816336068879/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWSPSjawAAM6hS.jpg"
+    }
+  ]
+}

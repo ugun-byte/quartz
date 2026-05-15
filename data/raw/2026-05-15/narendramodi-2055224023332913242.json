@@ -1,0 +1,29 @@
+{
+  "collectedAt": "2026-05-15T20:01:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T16:01:00+09:00",
+    "endKst": "2026-05-15T20:01:00+09:00"
+  },
+  "source": "X.com GraphQL public timeline via guest token",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2055224023332913242",
+  "postedAtUtc": "2026-05-15T09:49:26+00:00",
+  "postedAtKst": "2026-05-15T18:49:26+09:00",
+  "text": "Concluding a short but highly productive visit to the UAE. Held extensive discussions with my brother, His Highness Sheikh Mohamed bin Zayed Al Nahyan, on ways to further deepen the India-UAE Comprehensive Strategic Partnership. I am confident that the outcomes of this visit will further strengthen our friendship and contribute to growth and prosperity.\n\n@MohamedBinZayed",
+  "included": true,
+  "reason": "India-UAE official visit / strategic partnership outcomes signal",
+  "media": [
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055224023332913242/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWfIhxawAAl6cf.jpg"
+    },
+    {
+      "type": "photo",
+      "expanded_url": "https://x.com/narendramodi/status/2055224023332913242/photo/1",
+      "media_url_https": "https://pbs.twimg.com/media/HIWfLDYbEAAUji3.jpg"
+    }
+  ]
+}
