@@ -20,7 +20,9 @@
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
     "briefing:generate": "node scripts/generate-briefing.mjs",
     "briefing:example": "node scripts/generate-briefing.mjs --input data/processed/example-briefing.json",
-    "briefing:build": "npm run briefing:generate && npx quartz build"
+    "briefing:build": "npm run briefing:generate && npx quartz build",
+    "daily:generate": "node scripts/generate-daily-archive.mjs",
+    "daily:build": "npm run daily:generate && npx quartz build"
   },
   "engines": {
     "npm": ">=10.9.2",
