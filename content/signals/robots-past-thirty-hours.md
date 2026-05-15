@@ -10,6 +10,11 @@ tags:
   - "xai"
   - "developer-tools"
   - "4-hour-briefing"
+  - "세계-주요-인물"
+  - "X-브리핑"
+  - "4시간-브리핑"
+  - "로봇·미래기술"
+  - "테크·IT"
 draft: false
 ---
 
