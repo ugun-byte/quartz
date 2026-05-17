@@ -1,0 +1,18 @@
+{
+  "collectedAt": "2026-05-17T08:20:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T20:01:00+09:00",
+    "endKst": "2026-05-17T08:20:00+09:00"
+  },
+  "source": "X.com logged-in search and status pages",
+  "person": "Brett Adcock",
+  "handle": "adcock_brett",
+  "sector": "로봇·미래기술",
+  "url": "https://x.com/adcock_brett/status/2055695727985352722",
+  "postedAtUtc": "2026-05-16T17:03:49+00:00",
+  "postedAtKst": "2026-05-17T02:03:49+09:00",
+  "text": "Livestream Day 4 has begun. We've been running F.03 humanoid robots 24/7 - fully autonomous, no breaks, and no downtime",
+  "broadcastUrl": "https://x.com/i/broadcasts/1AKEmOrBgokKL",
+  "included": true,
+  "reason": "Figure F.03 Day 4 autonomous 24/7 humanoid operation signal"
+}

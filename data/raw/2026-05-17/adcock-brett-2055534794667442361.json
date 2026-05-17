@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-05-17T08:20:00+09:00",
+  "window": {
+    "startKst": "2026-05-15T20:01:00+09:00",
+    "endKst": "2026-05-17T08:20:00+09:00"
+  },
+  "source": "X.com logged-in search and status pages",
+  "person": "Brett Adcock",
+  "handle": "adcock_brett",
+  "sector": "로봇·미래기술",
+  "url": "https://x.com/adcock_brett/status/2055534794667442361",
+  "postedAtUtc": "2026-05-16T06:24:19+00:00",
+  "postedAtKst": "2026-05-16T15:24:19+09:00",
+  "text": "76,940 packages over 61 hours 18 minutes\n\nThe robots are averaging roughly 1 package every 2.9 seconds \n\nNo breaks",
+  "included": true,
+  "reason": "Figure F.03 humanoid continuous operation metric signal"
+}
