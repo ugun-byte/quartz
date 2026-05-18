@@ -1,0 +1,17 @@
+{
+  "collectedAt": "2026-05-18T19:47:59+09:00",
+  "window": {
+    "startKst": "2026-05-18T17:16:03+09:00",
+    "endKst": "2026-05-18T19:17:28+09:00"
+  },
+  "source": "X.com logged-in search and status pages",
+  "person": "Narendra Modi",
+  "handle": "narendramodi",
+  "sector": "정치·공공",
+  "url": "https://x.com/narendramodi/status/2056287687930171805",
+  "postedAtUtc": "2026-05-18T08:16:03+00:00",
+  "postedAtKst": "2026-05-18T17:16:03+09:00",
+  "text": "I have landed in Oslo, Norway. I am grateful for the warm welcome from Prime Minister Jonas Gahr Støre at the airport. This is the first visit by an Indian prime minister to Norway in over 40 years. I am confident that the visit will strengthen the friendship between India and Norway. I will meet Their Majesties King Harald V and Queen Sonja, and hold talks with Prime Minister Støre. Tomorrow, the 19th, the third India-Nordic Summit will be held in Oslo. It will be a good opportunity to meet my Nordic colleagues. @jonasgahrstore",
+  "included": true,
+  "reason": "Narendra Modi Norway visit arrival signal with explicit reference to first Indian prime minister visit in over 40 years and India-Nordic Summit schedule"
+}
