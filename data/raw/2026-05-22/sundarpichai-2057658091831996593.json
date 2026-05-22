@@ -1,0 +1,16 @@
+{
+  "source": "x.com logged-in search",
+  "observedAt": "2026-05-22T21:17:00+09:00",
+  "publishedAt": "2026-05-22T12:17:00+09:00",
+  "person": "Sundar Pichai",
+  "handle": "sundarpichai",
+  "sector": "테크·IT",
+  "url": "https://x.com/sundarpichai/status/2057658091831996593",
+  "text": "Excited to see what you are building with Antigravity, We just 3xed the Antigravity limits again, but this time, the weekly quotas. Don't stop building!",
+  "quotedPost": {
+    "person": "Varun Mohan",
+    "handle": "_mohansolo",
+    "text": "Yesterday, we 3x'd limits on Antigravity and are seeing you build so much more. One thing we heard was people are worried about hitting their weekly limits after a couple work sessions. To give you more runway, we're 3x'ing the weekly Gemini quotas AGAIN on all paid plans."
+  },
+  "reason": "Google Antigravity weekly quota expansion signal"
+}

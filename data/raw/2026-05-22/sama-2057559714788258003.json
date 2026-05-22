@@ -1,0 +1,16 @@
+{
+  "source": "x.com logged-in search",
+  "observedAt": "2026-05-22T21:17:00+09:00",
+  "publishedAt": "2026-05-22T06:17:00+09:00",
+  "person": "Sam Altman",
+  "handle": "sama",
+  "sector": "AI",
+  "url": "https://x.com/sama/status/2057559714788258003",
+  "text": "new codex ships today!",
+  "quotedPost": {
+    "person": "OpenAI Developers",
+    "handle": "OpenAIDevs",
+    "text": "It's Codex Thursday, and yes, we have updates for you. First up: Appshots, a new way to bring the context of what you're working on into Codex. On your Mac, press Command-Command to attach your app window to a Codex thread. Codex gets both a screenshot and text from the window,"
+  },
+  "reason": "Codex update signal with Appshots context capture for Mac app windows"
+}

@@ -1,0 +1,103 @@
+---
+title: "3일 신호 브리핑: Codex Appshots, Gemini Flash, Figure 200시간"
+description: "2026년 5월 20일부터 5월 22일(KST)까지 확인된 X.com 공개글 중 Codex Appshots, Gemini 3.5 Flash, Antigravity quota, Figure F.03 200시간 운용, NVIDIA-Dell AI Factory 신호를 정리합니다."
+date: "2026-05-22"
+tags: 
+  - "signal-cabinet"
+  - "x-briefing"
+  - "세계-주요-인물"
+  - "X-브리핑"
+  - "4시간-브리핑"
+  - "3일-브리핑"
+  - "AI"
+  - "테크·IT"
+  - "로봇·미래기술"
+  - "openai"
+  - "codex"
+  - "google"
+  - "gemini"
+  - "antigravity"
+  - "figure"
+  - "nvidia"
+draft: false
+---
+
+# 3일 신호 브리핑: Codex Appshots, Gemini Flash, Figure 200시간
+
+> 관측 창: **2026-05-20–2026-05-22 KST**
+
+## Cabinet Note
+
+최근 3일 관측 창에서는 OpenAI와 Google 쪽 개발자 도구 경쟁 신호가 집중적으로 확인되었습니다. Sam Altman은 Codex 업데이트와 Appshots를 공유했고, Demis Hassabis와 Sundar Pichai는 Gemini 3.5 Flash와 Antigravity 사용량 확장을 언급했습니다. 로봇 분야에서는 Brett Adcock이 Figure F.03 휴머노이드의 200시간 무고장 운용을 공개했고, NVIDIA는 Dell과 함께 enterprise autonomous AI agents를 겨냥한 AI Factory 업데이트를 알렸습니다.
+
+## 편집 원칙
+
+- 원문 의미를 왜곡하지 않습니다.
+- 과장된 해석을 하지 않습니다.
+- 투자 판단처럼 보이는 문장은 피합니다.
+- 분야별로 정리합니다.
+- 각 인물별 내용을 사실 중심으로 정리합니다.
+- 중요한 글은 **주목도: 높음/중간/낮음**으로 표시합니다.
+- 모든 항목에 원문 링크를 남깁니다.
+
+## AI 개발 도구 신호
+
+OpenAI와 Google 모두 개발자 도구의 맥락 입력, 모델 속도, quota 확장을 전면에 내세운 흐름입니다.
+
+### <span class="signal-target-name">Sam Altman</span> [@sama](https://x.com/sama)
+
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-high">높음</span>
+
+2026년 5월 22일 X 검색 기준, Sam Altman은 "new codex ships today!"라고 적으며 OpenAI Developers의 Codex 업데이트 게시물을 인용했습니다. 인용된 게시물은 Appshots를 Codex에 작업 맥락을 가져오는 새 방식으로 설명했고, Mac에서 Command-Command로 앱 창을 Codex thread에 첨부하면 Codex가 스크린샷과 창의 텍스트를 함께 받는다고 안내했습니다.
+
+**왜 중요한가:** Codex가 단순 코드 입력을 넘어 사용자가 보고 있는 앱 상태까지 작업 맥락으로 받아들이는 방향을 보여주는 직접 신호입니다. 다만 실제 지원 범위와 동작 안정성은 원문과 OpenAI Developers 게시물 범위 이상으로 단정하지 않습니다.
+
+**원문:** https://x.com/sama/status/2057559714788258003
+
+### <span class="signal-target-name">Demis Hassabis</span> [@demishassabis](https://x.com/demishassabis)
+
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-high">높음</span>
+
+2026년 5월 20일, Demis Hassabis는 Gemini 3.5 Flash가 coding과 agentic tasks에서 3.1 Pro보다 낫고, 다른 frontier models보다 4배 빠르며, Antigravity에서는 12배 빠르다고 적었습니다. 그는 800 tokens/sec, 절반 이하 비용인 경우가 많다는 표현도 함께 사용했고, Pro가 뒤따를 것이라고 덧붙였습니다.
+
+**왜 중요한가:** Google DeepMind 수장이 직접 모델의 coding·agentic task 성능, 속도, 비용, Antigravity 연결을 한 묶음으로 제시한 신호입니다. 수치와 비교는 원문 주장으로만 기록하며 독립 벤치마크처럼 확대하지 않습니다.
+
+**원문:** https://x.com/demishassabis/status/2056904067406860545
+
+### <span class="signal-target-name">Sundar Pichai</span> [@sundarpichai](https://x.com/sundarpichai)
+
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-medium">중간</span>
+
+2026년 5월 22일 X 검색 기준, Sundar Pichai는 Antigravity로 무엇을 만들고 있는지 기대된다며, 이번에는 weekly quota를 다시 3배로 늘렸다고 밝혔습니다. 인용된 Varun Mohan의 글은 paid plans의 weekly Gemini quotas를 다시 3배로 늘려 몇 번의 작업 세션 뒤 quota를 걱정하는 사용자를 위한 여유를 준다는 취지였습니다.
+
+**왜 중요한가:** Google의 agentic 개발 환경이 단순 발표 단계가 아니라 사용량 제한을 빠르게 조정하며 실제 빌드 활동을 유도하는 흐름을 보여줍니다. 구체적 plan별 수치나 장기 정책은 원문에 없으므로 확정하지 않습니다.
+
+**원문:** https://x.com/sundarpichai/status/2057658091831996593
+
+## 로봇·AI 인프라 신호
+
+Figure의 장시간 휴머노이드 운용과 NVIDIA-Dell의 enterprise AI Factory 메시지가 같은 관측 창에 들어왔습니다.
+
+### <span class="signal-target-name">Brett Adcock</span> [@adcock_brett](https://x.com/adcock_brett)
+
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-high">높음</span>
+
+2026년 5월 22일 X 검색 기준, Brett Adcock은 8시간 challenge로 시작한 실험이 실패 없이 200시간 동안 이어졌다고 밝혔습니다. 그는 F.03의 hardcore engineering과 이를 구동하는 robust Helix models를 언급했습니다.
+
+**왜 중요한가:** 이전 24시간, 30시간, 61시간 운용 신호의 후속으로, Figure가 장시간 연속 운용 수치를 계속 공개하고 있음을 보여줍니다. 다만 무고장 기준과 현장 조건은 원문만으로는 독립 검증하지 않습니다.
+
+**원문:** https://x.com/adcock_brett/status/2057651077928145235
+
+### <span class="signal-target-name">NVIDIA</span> [@nvidia](https://x.com/nvidia)
+
+<span class="signal-attention-label">주목도</span> <span class="signal-attention signal-attention-medium">중간</span>
+
+2026년 5월 22일 X 검색 기준, NVIDIA는 Jensen Huang이 Dell CEO Michael Dell과 함께 Dell AI Factory with NVIDIA의 major update를 공개했다고 밝혔습니다. 게시물은 이를 enterprise의 autonomous AI agents 다음 물결을 구동하는 full-stack platform으로 설명했습니다.
+
+**왜 중요한가:** Jensen Huang 개인 X 계정은 확인 대상에서 제외되어 있지만, NVIDIA 공식 계정의 공개 원문으로 AI Factory와 enterprise autonomous agents 메시지를 추적할 수 있습니다. 제품 세부 구성과 고객 적용 범위는 원문 이상으로 단정하지 않습니다.
+
+**원문:** https://x.com/nvidia/status/2057606834739945909
+
+---
+
+이 글은 Signal Cabinet 자동 파이프라인으로 생성되었습니다. 날짜는 메타데이터로 보존하고, 파일명은 그날의 핵심 분위기를 담은 코드네임을 사용합니다.
