@@ -1,0 +1,17 @@
+{
+  "source": "x.com logged-in browser",
+  "observedAt": "2026-05-23T18:42:28+09:00",
+  "publishedAt": "2026-05-23T08:01:55+09:00",
+  "handle": "nvidia",
+  "author": "NVIDIA",
+  "url": "https://x.com/nvidia/status/2057960175328252222",
+  "visibleText": "When the unknowns are everywhere, start with first principles, reason through what you believe and keep showing up.\n\nOur CEO Jensen Huang on @HowIBuiltThis:",
+  "threadContext": "A follow-up reply links the full How I Built This episode: NVIDIA: Jensen Huang. From near collapse to becoming the world’s biggest company.",
+  "metricsAtObservation": {
+    "views": "19.5K",
+    "replies": "20",
+    "reposts": "18",
+    "likes": "144",
+    "bookmarks": "14"
+  }
+}

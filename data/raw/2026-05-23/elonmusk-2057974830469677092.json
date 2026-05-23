@@ -1,0 +1,16 @@
+{
+  "source": "x.com logged-in browser",
+  "observedAt": "2026-05-23T18:42:28+09:00",
+  "publishedAt": "2026-05-23T09:00:09+09:00",
+  "handle": "elonmusk",
+  "author": "Elon Musk",
+  "url": "https://x.com/elonmusk/status/2057974830469677092",
+  "visibleText": "Congratulations @SpaceX team on an epic first Starship V3 launch & landing!\n\nYou scored a goal for humanity.",
+  "metricsAtObservation": {
+    "views": "8.9M",
+    "replies": "4.2K",
+    "reposts": "9.9K",
+    "likes": "120K",
+    "bookmarks": "1.3K"
+  }
+}

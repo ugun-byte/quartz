@@ -1,0 +1,21 @@
+{
+  "source": "x.com logged-in browser",
+  "observedAt": "2026-05-23T18:42:28+09:00",
+  "publishedAt": "2026-05-23T06:15:43+09:00",
+  "handle": "elonmusk",
+  "author": "Elon Musk",
+  "url": "https://x.com/elonmusk/status/2057933447541219630",
+  "visibleText": "Critical feedback is much appreciated",
+  "quotedPost": {
+    "handle": "boyuan__zheng",
+    "author": "Boyuan Zheng",
+    "visibleText": "Excited to see people try Grok Build for web dev. Our team has put a lot of effort into improving its aesthetics, functionality, and more exciting features to be expected with recursive self-improvement loop.\n\nIt’s still early beta, and feedback is very welcome. Please try it out x.com/kilocode/statu…"
+  },
+  "metricsAtObservation": {
+    "views": "18.5M",
+    "replies": "1.8K",
+    "reposts": "2.6K",
+    "likes": "21K",
+    "bookmarks": "823"
+  }
+}

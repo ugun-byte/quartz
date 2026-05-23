@@ -1,0 +1,16 @@
+{
+  "source": "x.com logged-in browser",
+  "observedAt": "2026-05-23T18:42:28+09:00",
+  "publishedAt": "2026-05-23T05:16:49+09:00",
+  "handle": "OpenAIDevs",
+  "author": "OpenAI Developers",
+  "url": "https://x.com/OpenAIDevs/status/2057918624841728349",
+  "visibleText": "Shipped papercut: new diff markers setting in Appearance.\n\nPrefer classic + / - markers when reviewing diffs? You can now use those instead of only color-coded diff bars.\n\nDefault stays the same unless you opt in.",
+  "metricsAtObservation": {
+    "views": "68.6K",
+    "replies": "33",
+    "reposts": "44",
+    "likes": "822",
+    "bookmarks": "142"
+  }
+}
