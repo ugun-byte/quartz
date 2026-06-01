@@ -1,0 +1,10 @@
+{
+  "source": "x.com",
+  "observedAt": "2026-06-01T17:16:00+09:00",
+  "publishedAt": "2026-05-28T15:27:00+09:00",
+  "person": "Elon Musk",
+  "handle": "elonmusk",
+  "url": "https://x.com/elonmusk/status/2059884150187053488",
+  "text": "SpaceX has almost finished writing V1.0 of an in-house AI training stack in C that exact-maps to 220k GB300s with 800G NICs, making heavy use of pipeline parallelism and getting as close to bare metal as possible. The potential speed improvement vs JAX for large training runs is over an order of magnitude.",
+  "reason": "SpaceX in-house AI training infrastructure signal with GB300 scale, pipeline parallelism, and low-level C stack claims"
+}

@@ -1,0 +1,10 @@
+{
+  "source": "x.com",
+  "observedAt": "2026-06-01T17:12:00+09:00",
+  "publishedAt": "2026-06-01T01:07:00+09:00",
+  "person": "Sam Altman",
+  "handle": "sama",
+  "url": "https://x.com/sama/status/2061117302528188712",
+  "text": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society. AI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need. Our world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research. If you love working hands-on across the robotics stack and want to build the future, please consider joining us.",
+  "reason": "OpenAI Robotics hiring and roadmap signal for physical-world AI, infrastructure support, personal robots, world simulation, and hardware-ML co-design"
+}
