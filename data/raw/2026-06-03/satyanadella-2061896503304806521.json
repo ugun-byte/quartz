@@ -1,0 +1,35 @@
+{
+  "person": "Satya Nadella",
+  "handle": "satyanadella",
+  "url": "https://x.com/satyanadella/status/2061896503304806521",
+  "observedAt": "2026-06-03T10:36:00+09:00",
+  "postedAt": "2026-06-03T04:43:00+09:00",
+  "source": "x.com browser profile=openclaw",
+  "text": "Great to be back at Microsoft Build today. For us, it is not about any one piece of technology or even the platform.\n\nIt is about how we can build a frontier intelligence ecosystem together.\n\nSharing some of our big announcements today ...",
+  "thread": [
+    {
+      "url": "https://x.com/satyanadella/status/2061896505481658767",
+      "text": "1/Unmetered intelligence on every desk and in every home with Windows. New Aion on-device models, bringing Windows AI APIs to a broader install base, and a new developer dream machine, the Surface RTX Spark Dev Box!"
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2061896508287725888",
+      "text": "2/Project Solara. Can we imagine new form factors purpose built for this agent era?"
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2061896510250668490",
+      "text": "3/IQ. We are bringing together Foundry, Fabric, and M365 as a unified IQ layer, a continuously updated understanding of your organization. Plus Web IQ. Best in class (quality, speed, efficiency) web grounding for agents."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2061896512934949105",
+      "text": "4/Autopilots. Autonomous long-running agents with full enterprise compliance. Think of these as enterprise-grade Claws."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2061896515057258562",
+      "text": "5/With our 7 new MAI models + Frontier Tuning, we are helping every company move from just consuming frontier models to fully participating in the frontier ecosystem."
+    },
+    {
+      "url": "https://x.com/satyanadella/status/2061896517854875837",
+      "text": "6/And, finally, Majorana 2. Majorana 1 proved out the physics of the topological approach, but Majorana 2 is where we start engineering at scale."
+    }
+  ]
+}

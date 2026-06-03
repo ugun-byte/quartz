@@ -1,0 +1,38 @@
+{
+  "title": "신호 브리핑: Microsoft Build의 frontier intelligence ecosystem",
+  "codename": "microsoft-build-frontier-intelligence-ecosystem",
+  "publishedAt": "2026-06-03",
+  "description": "2026년 6월 3일 Satya Nadella의 공개 X.com 발언을 바탕으로 Microsoft Build에서 제시된 agent-first device, Windows on-device AI, enterprise agent, MAI 모델, Majorana 2 신호를 정리합니다.",
+  "window": "2026-06-03 04:43-07:47 KST",
+  "summary": "Satya Nadella는 Microsoft Build에서 frontier intelligence ecosystem을 함께 구축하는 방향을 제시하며 Windows on-device AI, Project Solara, IQ layer, enterprise-grade autonomous agents, 7개 MAI 모델과 Frontier Tuning, Majorana 2를 연결해 설명했습니다.",
+  "tags": [
+    "세계-주요-인물",
+    "X-브리핑",
+    "4시간-브리핑",
+    "AI",
+    "테크·IT",
+    "microsoft",
+    "build",
+    "agents",
+    "windows",
+    "quantum",
+    "satya-nadella"
+  ],
+  "sections": [
+    {
+      "title": "AI·테크 플랫폼 신호",
+      "summary": "Microsoft가 Build 무대에서 agent-first devices, enterprise agents, on-device AI, Frontier Tuning, quantum engineering을 하나의 생태계 메시지로 묶었습니다.",
+      "signals": [
+        {
+          "person": "Satya Nadella",
+          "handle": "satyanadella",
+          "attention": "높음",
+          "text": "2026년 6월 3일 04:43-07:47(KST), Satya Nadella는 Microsoft Build 발표를 정리하며 'frontier intelligence ecosystem'을 함께 구축하는 것이 핵심이라고 적었습니다. 그는 Windows의 Aion on-device models와 Windows AI APIs, Project Solara의 agent-first device, Foundry-Fabric-M365를 묶는 IQ layer, enterprise compliance를 갖춘 long-running agents, 7개 MAI 모델과 Frontier Tuning, Majorana 2의 scale engineering을 언급했습니다.",
+          "whyItMatters": "Microsoft가 AI를 단일 제품이나 플랫폼이 아니라 Windows 디바이스, 기업 데이터 계층, 장기 실행 에이전트, 자체 모델, 양자 컴퓨팅 연구까지 묶는 생태계 방향으로 설명한 신호입니다. 다만 출시 일정, 가격, 실제 성능은 원문 범위 밖이므로 단정하지 않습니다.",
+          "url": "https://x.com/satyanadella/status/2061896503304806521",
+          "relatedUrl": "https://x.com/satyanadella/status/2061942751860769094"
+        }
+      ]
+    }
+  ]
+}
