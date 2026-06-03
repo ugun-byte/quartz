@@ -1,0 +1,34 @@
+{
+  "title": "4시간 신호 브리핑: Figure 직원 유동성과 범용 로봇 인재 확보",
+  "description": "2026년 6월 3일 10:47(KST) 관측에서 확인한 Brett Adcock의 Figure 직원 tender와 로봇 인재 확보 신호를 정리합니다.",
+  "date": "2026-06-03",
+  "observedAt": "2026-06-03T10:47:00+09:00",
+  "slug": "figure-employee-tender-general-robotics",
+  "summary": "이번 관측에서는 Brett Adcock이 Figure의 1억 달러 employee tender 완료를 공개하며, 범용 로봇 문제를 풀기 위해 뛰어난 엔지니어 확보가 필요하고 비상장사로서 여정 중 유동성을 제공하게 되어 기쁘다고 밝혔습니다. MrBeast와 Joe Rogan의 최근 공개 게시물은 콘텐츠 홍보, 잡담, 팟캐스트 에피소드 소개 중심이라 이번 발행 기준의 기술·정책·투자·AI 방향성 신호로 보지 않았습니다.",
+  "sections": [
+    {
+      "sector": "로봇·미래기술",
+      "intro": "Figure가 비상장 단계에서 직원 대상 유동성 프로그램을 완료했다는 신호입니다. 로봇 개발의 핵심 병목을 인재 확보와 유지로 연결해 설명했다는 점을 기록합니다.",
+      "items": [
+        {
+          "person": "Brett Adcock",
+          "handle": "adcock_brett",
+          "attention": "중간",
+          "url": "https://x.com/adcock_brett/status/2060431765572096052",
+          "text": "2026년 5월 30일 03:43(KST로 표시된 X 원문), Brett Adcock은 Figure가 1억 달러 규모의 employee tender를 완료했다고 밝혔습니다. 그는 범용 로봇 문제를 풀기 위해 지구상 최고의 엔지니어들이 필요하며, 비상장사로서 그 여정 중 유동성을 제공하게 되어 기쁘다고 적었습니다.",
+          "why": "제품 성능 수치나 새 로봇 데모는 아니지만, Figure가 로봇 인재 확보와 유지 전략의 일부로 직원 유동성을 공개적으로 제시했다는 점에서 로봇 기업 운영과 자본 배분 흐름을 보여줍니다. 투자 판단이나 기업 가치 평가는 덧붙이지 않습니다."
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "person": "MrBeast",
+      "reason": "최근 게시물이 KSI 언급, 유튜브 업로드 홍보, Beast Games/영상 관련 반응 중심이라 기술·정책·투자·AI 방향성 신호 기준에 미달했습니다."
+    },
+    {
+      "person": "Joe Rogan",
+      "reason": "최근 게시물이 Spotify/JRE 에피소드 소개와 이미지 게시물 중심이라 이번 발행 기준의 시장·기술·정책 신호로 보기 어렵습니다."
+    }
+  ]
+}
