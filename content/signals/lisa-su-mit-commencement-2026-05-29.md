@@ -1,6 +1,6 @@
 ---
 title: "Lisa Su — MIT Commencement (May 29, 2026)"
-date: 2026-06-02
+date: "2026-06-02"
 summary: "Lisa Su celebrates MIT Class of 2026 and reflects on the institute's impact; notes strong momentum for AI across customers and partners in recent trips."
 tags:
   - signal-cabinet
@@ -9,7 +9,7 @@ tags:
   - ai
 people:
   - Lisa Su
-  - @LisaSu
+  - "@LisaSu"
 original: "https://x.com/LisaSu/status/2060162236828557601"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Tim Cook — Apple Developer Academy in Detroit (May 30, 2026)"
-date: 2026-06-02
+date: "2026-06-02"
 summary: "Tim Cook highlights Apple's Developer Academy in Detroit and continued investment in developer education and local tech ecosystems."
 tags:
   - signal-cabinet
@@ -10,7 +10,7 @@ tags:
   - education
 people:
   - Tim Cook
-  - @tim_cook
+  - "@tim_cook"
 original: "https://x.com/tim_cook/status/2060442942381404546"
 ---
 

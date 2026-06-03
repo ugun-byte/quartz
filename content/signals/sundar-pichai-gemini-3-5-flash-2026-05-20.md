@@ -1,6 +1,6 @@
 ---
 title: "Sundar Pichai — Gemini 3.5 Flash (May 20, 2026)"
-date: 2026-06-02
+date: "2026-06-02"
 summary: "Sundar Pichai announces Gemini 3.5 Flash availability in Antigravity and across Google products and APIs, emphasizing coding improvements and benchmark gains versus 3.1 Pro."
 tags:
   - signal-cabinet
@@ -10,7 +10,7 @@ tags:
   - ai
 people:
   - Sundar Pichai
-  - @sundarpichai
+  - "@sundarpichai"
 original: "https://x.com/sundarpichai/status/2056796893951426705"
 ---
 

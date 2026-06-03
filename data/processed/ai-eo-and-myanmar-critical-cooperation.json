@@ -1,0 +1,57 @@
+{
+  "title": "신호 브리핑: AI 행정명령과 India-Myanmar 핵심 협력",
+  "codename": "ai-eo-and-myanmar-critical-cooperation",
+  "publishedAt": "2026-06-03",
+  "description": "2026년 6월 1일부터 6월 3일(KST)까지 확인된 Sam Altman과 Narendra Modi의 공개 X.com 발언을 바탕으로 AI 행정명령, 사이버 방어 도구, rare earths·maritime security 협력 신호를 정리합니다.",
+  "window": "2026-06-01 22:57-2026-06-03 10:30 KST",
+  "summary": "Sam Altman은 미국이 최고의 AI 모델 개발, 안전성 확보, 신뢰할 수 있는 방어자에게 사이버 도구를 제공하는 방식으로 AI를 선도해야 한다고 쓰며 새 행정명령이 균형을 잡았다고 평가했습니다. Narendra Modi는 Myanmar 대통령과의 회담에서 rare earths, maritime security, cyber security 등 협력 분야를 언급했습니다.",
+  "tags": [
+    "세계-주요-인물",
+    "X-브리핑",
+    "4시간-브리핑",
+    "AI",
+    "정치·공공",
+    "cyber-security",
+    "rare-earths",
+    "sam-altman",
+    "narendra-modi"
+  ],
+  "sections": [
+    {
+      "title": "AI·사이버 정책 신호",
+      "summary": "AI 모델 경쟁력과 안전성, 신뢰할 수 있는 방어자를 위한 사이버 도구가 같은 정책 프레임 안에서 언급되었습니다.",
+      "signals": [
+        {
+          "person": "Sam Altman",
+          "handle": "sama",
+          "attention": "높음",
+          "text": "2026년 6월 3일 09:48(KST), Sam Altman은 미국이 AI에서 선도하려면 최고의 모델을 계속 개발하고, 안전성을 확보하며, 신뢰할 수 있는 방어자에게 사이버 도구를 제공해야 한다고 적었습니다. 이어 새 행정명령이 균형을 잘 잡았다고 평가했습니다.",
+          "whyItMatters": "AI 모델 개발, 안전성, 사이버 방어 역량을 하나의 정책 균형으로 묶어 언급한 공개 신호입니다. 다만 게시물은 행정명령의 세부 조항을 직접 설명하지 않았으므로, 구체적 규제 변화나 집행 방향은 원문 범위를 넘어 단정하지 않습니다.",
+          "url": "https://x.com/sama/status/2061973280655904815"
+        }
+      ]
+    },
+    {
+      "title": "정치·공공 협력 신호",
+      "summary": "India-Myanmar 회담에서 rare earths, maritime security, cyber security가 명시적 협력 분야로 제시되었습니다.",
+      "signals": [
+        {
+          "person": "Narendra Modi",
+          "handle": "narendramodi",
+          "attention": "중간",
+          "text": "2026년 6월 1일 22:57(KST), Narendra Modi는 U Min Aung Hlaing Myanmar 대통령과 생산적인 회담을 했다고 밝히며, Myanmar가 India's Neighbourhood First, Act East, Indo-Pacific 정책에 중요하다고 적었습니다.",
+          "whyItMatters": "India-Myanmar 관계를 인도의 지역·인도태평양 정책 축 안에 명시적으로 배치한 신호입니다. 회담의 실제 합의문이나 후속 조치 여부는 이 게시물만으로는 확인되지 않습니다.",
+          "url": "https://x.com/narendramodi/status/2061446939372404738"
+        },
+        {
+          "person": "Narendra Modi",
+          "handle": "narendramodi",
+          "attention": "높음",
+          "text": "같은 시각 이어진 게시물에서 Modi는 양측 회담이 trade, rare earths, healthcare, connectivity, heritage restoration, capacity building 협력을 다뤘고, maritime security와 cyber security 등에서도 긴밀히 협력하기로 했다고 밝혔습니다.",
+          "whyItMatters": "rare earths와 cyber security가 India-Myanmar 협력 의제로 함께 공개 언급된 점은 공급망·안보·디지털 방어 측면에서 관측 가치가 있습니다. 다만 구체적 프로젝트 규모, 일정, 집행 기관은 게시물에 포함되지 않았습니다.",
+          "url": "https://x.com/narendramodi/status/2061446944384557192"
+        }
+      ]
+    }
+  ]
+}
